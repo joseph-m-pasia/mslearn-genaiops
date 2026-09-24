@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: readaz account show --query "{subscription:id, tenant:tenantId}" -o table
+  contents: read
   pull-requests: write
   id-token: write
 
