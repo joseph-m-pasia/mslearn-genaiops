@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"Response(id='resp_06183cc2ae0d2059006ab4e15ae64c8190abb870be3deda9fa'...",5,5,4,Clear and comprehensive gear list
+overnight-camping,"Response(id='resp_09188619b0ac23fd006ab4e16f1960819086bacd9d80163972'...",4,4,5,Good beginner advice with safety focus
+three-day-backpacking,"Response(id='resp_0fa070e0cc7f8045006ab4e1849124819088f6bb5455960996'...",5,5,5,Excellent detailed safety guidance
+trail-difficulty,"Response(id='resp_091faeec3a091b50006ab4e19aa40c8190919c6ddf603e6030'...",5,5,5,Helpful framework for self-assessment
+winter-hiking,"Response(id='resp_0c926f36f646de12006ab4e1af71d081908ae1cae81280a177'...",4,4,4,Good comparison of seasonal differences
